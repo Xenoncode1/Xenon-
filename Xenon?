@@ -3883,7 +3883,7 @@ local function injectScript()
  end
 end
 local function startInjection()
- addChangelogEntry(true, "Xenon V5 | Release", "11/16/24")
+ addChangelogEntry(true, "Xenon V1| Release", "11/16/24")
  addChangelogEntry(true, "Release!", "11/16/24")
  addChangelogEntry(true, "Streamable + Undetected >_<", "11/16/24")
  addChangelogEntry(true, "Better Security!", "11/16/24")
